@@ -1,6 +1,6 @@
 ![servicesbanner](https://lazarodossantos.com/FILES/LAZGitLogo.jpg)
 
-[![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://github.com/jusla3/gitignoret)
+[![Build Status](https://travis-ci.org/jusla3/gitignore.svg?branch=master)](https://travis-ci.org/jusla3/gitignoret)
 
 # GitHub Training Kit
 
