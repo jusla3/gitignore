@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/jusla3/gitignore.svg?branch=master)](https://travis-ci.org/jusla3/gitignore)
 
-[![Build Status](https://travis-ci.org/jusla3/gitignore.svg?branch=master)](https://travis-ci.org/jusla3/gitignore)
 
 # GitHub Training Kit
 
