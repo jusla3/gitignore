@@ -1,3 +1,10 @@
+![servicesbanner](https://lazarodossantos.com/FILES/LAZGitLogo.jpg)
+
+[![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://github.com/jusla3/gitignoret)
+
+# GitHub Training Kit
+
+
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
